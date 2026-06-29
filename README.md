@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:-
 🔭 I’m currently working on developing my skills and building projects to level up and grow as a developer.<br><br>👯 I’m looking to collaborate on Full-stack web development projects, especially those involving React or modern web technologies.<br><br>🤝 I’m looking for help with mastering system architecture and exploring advanced security protocols for web applications.<br><br>🌱 I’m currently learning advanced Java development and modern software engineering principles to build more robust systems.<br><br>💬 Ask me about Web development (HTML/CSS/JS), building dynamic interfaces with React, or my experience pursuing an MCA.<br><br>⚡ Fun fact I love to play chess; it’s a great way to sharpen my strategic thinking and strengthen my programming logic.
 
 
